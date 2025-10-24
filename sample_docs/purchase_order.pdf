@@ -1,0 +1,19 @@
+PURCHASE ORDER
+PO No: PO-2025-109
+Date: October 6, 2025
+
+Supplier: DigitalEdge Systems
+Address: 45 Tech Street, Bengaluru, India
+
+Ship To:
+Acme Corporation, IT Department
+
+Item Description             Quantity   Unit Price(INR)   Total
+---------------------------------------------------------------
+Dell Latitude Laptops        10         60,000            6,00,000
+Wireless Keyboards           10          2,000             20,000
+---------------------------------------------------------------
+Grand Total:                                           6,20,000
+
+Authorized By: Procurement Manager
+Email: purchase@acmecorp.com
